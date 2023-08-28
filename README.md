@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @petradub
+- 👀 I’m interested in data analytics, data science, and overall data management
+- 🌱 I’m currently enrolled in a Bootcamp
+- 💞️ I’m looking to collaborate on data analytics projects
+- 📫 How to reach me: Let's connect on LinkedIn: https://www.linkedin.com/in/petra-dubravcova/
